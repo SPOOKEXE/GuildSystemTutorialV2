@@ -1,0 +1,9 @@
+cachetools
+fastapi
+pydantic
+slowapi
+uvicorn
+fastapi-cache2[memcache]
+sqlalchemy[asyncio]
+aiosqlite
+python-dotenv
